@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2.3"
+    }
+
+}

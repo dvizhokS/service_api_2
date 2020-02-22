@@ -1,0 +1,20 @@
+22.02.2020 15:03:34
+		SMTP Ok:
+	"subject":Project-1 name Project 11
+	"message":Project-1 name: Project 11
+ Project description: Project Description 1
+
+22.02.2020 15:03:35
+		telegram send is Ok
+	Project-1, id = 1, name: Project 11 and Project Description 1
+
+22.02.2020 15:03:36
+		SMTP Ok:
+	"subject":Project-1 name Project 33
+	"message":Project-1 name: Project 33
+ Project description: Project Description 3
+
+22.02.2020 15:03:37
+		telegram send is Ok
+	Project-1, id = 3, name: Project 33 and Project Description 3
+
